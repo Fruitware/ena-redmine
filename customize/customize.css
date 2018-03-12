@@ -12,11 +12,11 @@
 /**********************************************************/
 
 .action-login #wrapper, .action-register #wrapper, .action-lost_password #wrapper {
-	background: url(background-login-1.jpg) no-repeat;      /* Desk Office */
+	background: url(background-login-ena.jpg) no-repeat;      /* Desk Office */
 	/*background: url(background-login-2.jpg) no-repeat;*/     /* Foggy Forest */
 	/*background: url(background-login-3.jpg) no-repeat;*/     /* Green Leaves */
 	/*background: url(background-login-4.jpg) no-repeat;*/      /* Rocky Sea */
-	/*background: url(background-login-5.jpg) no-repeat;*/      /* Water in Pool */ 
+	/*background: url(background-login-5.jpg) no-repeat;*/      /* Water in Pool */
 	/*background: url(background-login-6.jpg) no-repeat;*/      /* Foggy Lake */
 	/*background: url(background-login-7.jpg) no-repeat;*/      /* Forest Bridge */
 	/*background: url(background-login-8.jpg) no-repeat;*/      /* Lightning Highway */
@@ -27,10 +27,10 @@
 	/*background: url(background-login-13.jpg) no-repeat;*/      /* Sea Bridge */
 	/*background: url(background-login-14.jpg) no-repeat;*/      /* Deep Space */
 	/*background: url(background-login-15.jpg) no-repeat;*/      /* Foggy Montains */
-	/*background: url(background-login-16.jpg) no-repeat;*/      /* Blurry */	
+	/*background: url(background-login-16.jpg) no-repeat;*/      /* Blurry */
 	/*background: url(background-login-17.jpg) no-repeat;*/      /* Lonely Jellyfish */
 
-    /*background: url(background-yourimage.jpg) no-repeat;*/      /* YOUR OWN IMAGE */ /* You will have to include your image in /boostmine/images/ folder */	
+    /*background: url(background-yourimage.jpg) no-repeat;*/      /* YOUR OWN IMAGE */ /* You will have to include your image in /boostmine/images/ folder */
 }
 
 /**********************************************************/
@@ -90,7 +90,7 @@
 	--header_hue: 210; /* From 0 to 360 degrees*/ /* Default 210 */
 	--header_saturation: 20%; /* From 0 to 100 percent */ /* Default 20% */
 	--header_brightness: 48%; /* From 0 to 100 percent */ /* Default 48% */
-	
+
 	/* Elements Color */
 	--hue: 210; /* From 0 to 360 degrees*/ /* Default 210 */
 	--saturation: 20%; /* From 0 to 100 percent */ /* Default 20% */
@@ -133,7 +133,7 @@ Tomato (h:0/s:65%/b:50%)
 /* If you want to change the tracker colors, just change the hex codes in the following table */
 
 
-:root {		
+:root {
 	--tracker_1: #e8863e;
 	--tracker_2: #56c559;
 	--tracker_3: #238ed8;
@@ -153,11 +153,11 @@ Tomato (h:0/s:65%/b:50%)
 /* If you want to change the priority colors, just change the hex codes in the following table */
 
 
-:root {		
+:root {
 	--low: #e5fff2;
 	--high: #fdfff0;
 	--urgent: #fff7e5;
-	--immediate: #ffe5e5;	
+	--immediate: #ffe5e5;
 }
 
 
@@ -179,10 +179,5 @@ Tomato (h:0/s:65%/b:50%)
 /* If you want the header to be fixed instead of sticky, just comment the second line to remove the sticky header */
 
 :root {
-	--sticky: true;	
+	--sticky: true;
 }
-
-
-
-
-
