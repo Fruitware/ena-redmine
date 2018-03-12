@@ -41,7 +41,7 @@
 
 
 .action-login #login-form, .action-register .box, .action-lost_password .box{
-	background-color: transparent;
+	background-color: black;
 	color: #FFFFFF;
 }
 
